@@ -4,23 +4,11 @@
 - Any modern operating system (Windows, macOS, Linux)
 - A web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.)
 
-## Downloading Files
+## Clone this project to your computer:
 
-1. **CSS File**:
-    - Right-click on the file `style.css`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
-
-2. **HTML File**:
-    - Right-click on the file `index.html`.
-    - Select the "Save As..." option.
-    - Save the file to your desired directory on your computer.
-  
-3. **Images Files**:
-    - Right-click on the files `jpg, svg`.
-    - Select the "Save As..." option.
-    - Save the files to your desired directory on your computer.
-       
+```markdown
+$ git clone https://github.com/NataliiaVdovyna/page.git
+```       
 
 ## Setting Up the Project
 
